@@ -1,1 +1,1 @@
-# https-github.com-tibiyacks-Semmaq.githttps-github.com-tibiyacks-Semmaq
+# https://github.com/tibiyacks/Semmaq.git
